@@ -1,6 +1,5 @@
 # RISC-CPU-Design-of-a-Single-Cycle-MIPS-Softcore-Processor-in-Verilog-HDL
-created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 4th-year Engineering student ,FPGA/DSP Engineer Intern)
-
+created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 4th-year Engineering student, FPGA/DSP Engineer Intern @Thai Space Consortium, NARIT.)
 
 ----
 
