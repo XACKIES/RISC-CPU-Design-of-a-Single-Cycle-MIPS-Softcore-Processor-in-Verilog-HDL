@@ -12,7 +12,7 @@ Presentation File : [RISC CPU Design of a Single Cycle MIPS Softcore Processor i
 
 Verilog file : [ MIPS_Processor | folder](https://github.com/XACKIES/RISC-CPU-Design-of-a-Single-Cycle-MIPS-Softcore-Processor-in-Verilog-HDL/tree/main/MIPS_Processor)
 
-### Command for simulation on terminal
+#### Command for simulation on terminal
 
 ```
 # Step 1: Compile Verilog files
@@ -25,7 +25,7 @@ vvp sim.vvp
 gtkwave sim.vcd
 ```
 ----
-# Self-Introduction
+## Self-Introduction
 
 [![2](https://github.com/XACKIES/RISC-CPU-Design-of-a-Single-Cycle-MIPS-Softcore-Processor-in-Verilog-HDL/blob/main/Doc/RISC%20CPU%20Design%20of%20a%20Single%20Cycle%20MIPS%20Softcore-Processor%20in%20Verilog-HDL%20-%20Picture/2.png
 )](https://bento.me/mac-kittiphop)
